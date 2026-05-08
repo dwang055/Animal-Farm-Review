@@ -1,5 +1,7 @@
 📖 Literary Analysis Study App – [Animal Farm]
-
+[
+](https://img.shields.io/badge/License-Educational%2520Use-blue
+https://img.shields.io/badge/Made%2520with-HTML%252FCSS%252FJS-green)
 
 This is an interactive, self‑contained HTML study app for [Animal Farm] by [George Orwell].
 It was generated using the Literary Analysis Review App Creator.
